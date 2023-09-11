@@ -1,0 +1,20 @@
+.avatar {
+  width: 195px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid;
+  color: $gray;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+
+.avatar-large {
+  width: 56px;
+  border-radius: 50%;
+}
+
+.avatar-square {
+  width: 40px;
+  border-radius: 0px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  border: white 1px solid;
+}

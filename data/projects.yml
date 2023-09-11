@@ -1,0 +1,14 @@
+- name: Kanwa
+  description: Emotional regulation app
+  image: projects/placeholder.png
+  url: https://www.kanwa.me
+
+- name: Bandshake
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+
+- name: Airbnb
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
